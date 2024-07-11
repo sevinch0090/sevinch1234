@@ -24,9 +24,9 @@
 ### 🖥 Men haqimda:
 
 - 😊: Men O'zMuJfda 2 kursman <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Ozbekistonda tug'ilganman.
-- :👨‍💻O'qiyapman:Kompyuter ilmlari va dasturlash texnalogiyasi yo'nalishi o'qiyman va veb-ilovalarni yaratish uchun frontend va backendni o'rganayapman
+- :👨‍💻O'qiyapman:Kompyuter ilmlari va dasturlash texnalogiyasi yo'nalishida o'qiyman va veb-ilovalarni yaratish uchun frontend va backendni o'rganayapman
 - :🌱 Hozirda :  Bo'sh vaqtimda Wep dasturlash haqida vediolar ko'raman va texnologik maqolalarni o'qiyman.
-- :📫:men bilan qanday bo'lanish mumkin:sevinchsohibovna@gmail.com,tel:939461180
+- :📫:men bilan qanday bog'lanish mumkin:sevinchsohibovna@gmail.com,tel:939461180
 - 🌐 Telegram kanalimiz: [https://t.me/sevinchsohibovna]
 
 ---
